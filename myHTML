@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+       <title>Project: MyWeb</title>
+        <style>
+        
+        .block
+        {
+            background-color:rgb(186, 158, 186);
+            padding:10px;
+        }
+        #c{
+            color:rgb(59, 56, 242);
+        }
+            #w{
+                color:rgb(36, 87, 22);
+        }
+        .d1{
+            background-color:rgb(218, 225, 237);
+            padding:8px;
+        }
+        .d2{
+        
+        }
+        .img{
+            border:2px dotted green;
+            width:50%;
+            margin-left:2px;
+            margin-bottom:80px;
+            overflow-y:auto;
+            overflow-x:hidden;
+            height:250px;
+            float:right;
+            padding:6px;
+        }
+        .img2
+        {
+            float:right;
+            margin-left:2px;
+            margin-right:20px;
+            width:40%;
+            padding:5px;
+        }
+        
+        #who
+        {
+            background-color:gray;}
+        #b{
+            color:blue;
+        }
+        .water-fall
+        {
+            border:10px;
+            margin:5px;
+        }
+        .mission{
+            background-color:rgb(195, 189, 201);
+            clear:both;
+            margin-right:6px;
+            margin-left:6px;
+            padding:8px;
+        }
+        .vision{
+            background-color:rgb(154, 153, 168);
+            margin-left:6px;
+            margin-right:6px;
+            padding:8px;
+        }
+            
+        .contact{
+            font-size:18px;
+            font-style:monospace;
+            color:rgb(153, 59, 59);
+        }
+            
+        </style>
+    </head>
+    <div class="d1"><body>
+        
+        <div class="block"><h1>You're invited!</h1>
+        <h2>To something!</h2>
+        <h3>What We Do Is All About Water...</h3></div>
+      
+        <p>The details:</p>
+        <div class="img">
+        
+        <div class="img2"><img src="https://www.kasandbox.org/programming-images/landscapes/beach-in-hawaii.png" width="200px" alt="fresh water view in hawaii"></div>
+        <h5 id="E-Naz"><span id="who"><em>Who We Are.</em></span></h5>
+   <p> <strong><span id="b">E-NAZ SERVICES INT'L</span></strong> is an indigenous company that deals with water Borehole Drilling,  Services, Consulting, and Solutions etc. we have been in business close to a decade with the best project handling and professional services<br>   In the water drilling and solutions of the 21st century, efficient operations, high value professional services and process automation cannot be separated from its result and profitability. The application of experience and advance technology solutions has led to great enhancement in these areas and a consequent increase in profitability for individual/institutional services that has embraced these for the provision of water.</p></div>
+        <div class="d2"><ul>
+        <li><span id="w"><strong><em>Water</em></strong></span> well disign and modeling</li>
+            <li><span id="w"><strong><em>Water</em></strong></span> well drilling and development</li>
+            <li>Geophysical Survey for water investigation and construction</li>
+            <li><span id="w"><strong><em>Water</em></strong></span> treatment and analysis</li>
+            <li>Maintainance</li>
+            <li><span id="w"><strong><em>Water</em></strong></span> channelling and Plumbing</li>
+        </ul>
+            
+        </div>
+        
+           <div class="water-fall"><img src="https://www.kasandbox.org/programming-images/landscapes/waterfall_niagara-falls.png" width="250" alt="fresh water fall from Naigra"></div>
+       <div class="mission"><h4>...mission</h4>
+        <p><strong><span id="b">E-NAZ SERVICES INT’L</span></strong> has the sole aim of providing unparallel services through a professionally dedicated workforce whose views are only channeled to client’s maximum satisfaction and benefits by getting emotionally involved in everything we do.  We aim to maximize our job profitability and its effective management whilst ensuring the day-to-day concern is addressed; hence our Prague based team has wide ranging experience in our environments groundwater, water borehole drilling, solutions etc. </p></div>
+       
+        <div class="vision"> <h4>...vision</h4>
+        
+       <p>To be the beat the best of the rest by comittement to any entrusted project to us. To exhibit excellence via our project delivery an to the bottom line</p></div>
+        
+ 
+        
+        <p><strong><em><span id="w">Water</span></em></strong> is an essential part of life on earth and is something that <span id="c">people, plants and animals</span> need to survive.</p>
+    <p>
+   <div class="contact"><em><strong> Contact Info<br> <a href="E-Naz">E-Naz Services Int'l</a> 1(240)-486-3104<br>e_nazservices@yahoo.com
+    </strong></em>
+        
+    </div>
+        
+    </body></div>
+</html>
